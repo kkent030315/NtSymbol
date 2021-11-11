@@ -25,6 +25,6 @@ int main()
     ntsymbol cidll("%SYSTEMROOT%\\system32\\CI.dll");
     cidll.init();
     /* DSE Bypass! */
-    const auto RvaCiOptions = ntoskrnl.resolve(L"g_CiOptions");
+    const auto RvaCiOptions = cidll.resolve(L"g_CiOptions");
 }
 ```
