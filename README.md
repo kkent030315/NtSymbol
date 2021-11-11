@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/license/kkent030315/NtSymbol?style=for-the-badge">
   <img src="https://img.shields.io/github/last-commit/kkent030315/NtSymbol?style=for-the-badge">
+  <img src="https://img.shields.io/github/workflow/status/kkent030315/NtSymbol/MSBuild?style=for-the-badge">
 </p>
 
 # NtSymbol
